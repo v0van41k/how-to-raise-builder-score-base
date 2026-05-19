@@ -3,8 +3,6 @@
 
 **Полный русскоязычный гайд** по повышению **Builder Score** в сети Base от Talent Protocol.
 
-![Banner](https://via.placeholder.com/1200x300/0066FF/FFFFFF?text=Base+Builder+Score+2026)
-
 ## О проекте
 
 Этот репозиторий создан, чтобы помочь русскоязычным билдерам быстро и эффективно набирать высокий Builder Score и получать награды (Builder Rewards).
