@@ -1,4 +1,5 @@
 # 🚀 Base Builder Guide 2026
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/29434d10-f710-4b47-9141-139c05af851a" />
 
 **Полный русскоязычный гайд** по повышению **Builder Score** в сети Base от Talent Protocol.
 
